@@ -1,0 +1,15 @@
+D:\ST\хочу стать умней\TASK-52\TASK-52\bin\Debug\net7.0\TASK-52.exe
+D:\ST\хочу стать умней\TASK-52\TASK-52\bin\Debug\net7.0\TASK-52.deps.json
+D:\ST\хочу стать умней\TASK-52\TASK-52\bin\Debug\net7.0\TASK-52.runtimeconfig.json
+D:\ST\хочу стать умней\TASK-52\TASK-52\bin\Debug\net7.0\TASK-52.dll
+D:\ST\хочу стать умней\TASK-52\TASK-52\bin\Debug\net7.0\TASK-52.pdb
+D:\ST\хочу стать умней\TASK-52\TASK-52\obj\Debug\net7.0\TASK-52.csproj.AssemblyReference.cache
+D:\ST\хочу стать умней\TASK-52\TASK-52\obj\Debug\net7.0\TASK-52.GeneratedMSBuildEditorConfig.editorconfig
+D:\ST\хочу стать умней\TASK-52\TASK-52\obj\Debug\net7.0\TASK-52.AssemblyInfoInputs.cache
+D:\ST\хочу стать умней\TASK-52\TASK-52\obj\Debug\net7.0\TASK-52.AssemblyInfo.cs
+D:\ST\хочу стать умней\TASK-52\TASK-52\obj\Debug\net7.0\TASK-52.csproj.CoreCompileInputs.cache
+D:\ST\хочу стать умней\TASK-52\TASK-52\obj\Debug\net7.0\TASK-52.dll
+D:\ST\хочу стать умней\TASK-52\TASK-52\obj\Debug\net7.0\refint\TASK-52.dll
+D:\ST\хочу стать умней\TASK-52\TASK-52\obj\Debug\net7.0\TASK-52.pdb
+D:\ST\хочу стать умней\TASK-52\TASK-52\obj\Debug\net7.0\TASK-52.genruntimeconfig.cache
+D:\ST\хочу стать умней\TASK-52\TASK-52\obj\Debug\net7.0\ref\TASK-52.dll
